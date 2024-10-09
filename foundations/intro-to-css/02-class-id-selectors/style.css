@@ -1,0 +1,26 @@
+.odd {
+    background-color: #d84f86;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    font-size: 36px;
+    color: #2e2ee2;
+}
+
+.odd#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #46f75e;
+    font-weight: 700;
+    font-size: 24px;
+
+}
+
+/* Reading the solutions, I could have made a separate
+   class that designates 'font-size: 24px' to both #third 
+   and#fourth
+
+*/
